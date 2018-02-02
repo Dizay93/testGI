@@ -9,7 +9,7 @@ public static void main (String [] args){
 }
 
 public void helloWord(){
-	System.out.println("Hello Word");	
+	System.out.println("Hello ");	
 
 }
 
